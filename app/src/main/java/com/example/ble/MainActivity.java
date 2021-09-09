@@ -215,6 +215,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public String getTextContent() throws DOMException {
+                System.out.println("dgfhkd");
                 return null;
             }
 
